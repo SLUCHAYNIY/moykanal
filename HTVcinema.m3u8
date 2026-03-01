@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3761000
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=563779000
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
